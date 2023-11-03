@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What problem did the founders of Agentinsights identify in the B2B SaaS environment?",
+      "options": ["Technical failures", "Lack of customer data", "Inconsistent call recording", "A need for more sales teams"],
+      "answer": "Inconsistent call recording"
+    },
+    {
+      "question": "How much of customer interactions were typically left unexplored and unanalyzed in the B2B SaaS environment?",
+      "options": ["10%", "50%", "75%", "99%"],
+      "answer": "99%"
+    },
+    {
+      "question": "What motivated the creation of Agentinsights?",
+      "options": ["To reduce technical failures", "To analyze 1% of calls", "To capture 100% of call details", "To focus on sales teams"],
+      "answer": "To capture 100% of call details"
+    },
+    {
+      "question": "How much did Agentinsights aim to elevate audit & analysis accuracy by?",
+      "options": ["50%", "75%", "90%", "95%"],
+      "answer": "95%"
+    },
+    {
+      "question": "What issue does Agentinsights address with its system?",
+      "options": ["Technical failures", "Inconsistent call recording", "Bias in decision-making", "Lack of data"],
+      "answer": "Inconsistent call recording"
+    },
+    {
+      "question": "What is the main focus of Agentinsights in terms of agent performance evaluation?",
+      "options": ["Comprehensive call recording", "Consistency and bias", "Batch analysis of 500+ calls", "Technical failures"],
+      "answer": "Consistency and bias"
+    },
+    {
+      "question": "What percentage of consistency does Agentinsights ensure in its system?",
+      "options": ["50%", "75%", "90%", "98%"],
+      "answer": "98%"
+    },
+    {
+      "question": "What is the primary goal of Agentinsights regarding customer interactions?",
+      "options": ["To focus on sales teams", "To reduce human inconsistency", "To convert conversations into valuable insights", "To capture 10% of calls"],
+      "answer": "To convert conversations into valuable insights"
+    },
+    {
+      "question": "What does Agentinsights aim to harness from customer conversations?",
+      "options": ["Technical failures", "Inconsistent call recording", "The real voice of customers", "Golden data"],
+      "answer": "The real voice of customers"
+    },
+    {
+      "question": "What is the role of Agentinsights in driving informed decision-making?",
+      "options": ["To reduce technical failures", "To focus on sales teams", "To ensure comprehensive call recording", "To drive informed decision-making across all echelons of your business"],
+      "answer": "To drive informed decision-making across all echelons of your business"
+    }
+  ]
+  
